@@ -1,2 +1,2 @@
-# AlgorithmVisualizer-Using-C-
+# AlgorithmVisualizer-Using-C ++
 Algorithm Visualiztion Tool
